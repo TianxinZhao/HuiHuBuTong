@@ -180,7 +180,7 @@ https://broadband.215123.cn?clientId=6d6bc6f3b5f04107a5fc1c62e39dd5f4&uuid=0d619
 
 | 设备                | 方案                                                         | 文件              |
 | ------------------- | ------------------------------------------------------------ | ----------------- |
-| 软路由              | 无直接适配，建议使用OpenWRT自行编译<br>或者使用虚拟机运行Ikuai镜像 | HHBT_OPENWRT.ZIP  |
+| 软路由              | 无直接适配，建议使用OpenWRT自行编译<br>或者使用虚拟机运行Ikuai镜像<br>现有OpenWRT设备也可根据原理部分自行修改设置 | HHBT_OPENWRT.ZIP  |
 | Windows10/11或Linux | VM方案,底层为配置好的Ikuai虚拟机<br>1.使用VMWare导入虚拟机镜像<br>2.设置适配器关联 | HHBT_VM_IKUAI.ZIP |
 | Windows10/11或Linux | Container方案                                                | 暂无              |
 
