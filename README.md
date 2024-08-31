@@ -12,8 +12,8 @@
 | -------------------------------- | ------------------ | ------------------ | ------------ | ------------------ | ------------ |
 | OpenWRT                          | :white_check_mark: | :white_check_mark: | :x:          | :x:                | :x:          |
 | Windows/Linux<br/>-VM方案        | :white_check_mark: | :white_check_mark: | 开发中       | :white_check_mark: | :x:          |
-| Windows/Linux<br/>-Container方案 | 后续适配           | 后续适配           | 后续适配     | 后续适配           | 后续适配     |
-| Container                        | 后续适配           | 后续适配           | 后续适配     | 后续适配           | 后续适配     |
+| Windows/Linux<br/>-Container方案 | 后续适配           | 后续适配           | 后续适配     | 后续适配           | ~~后续适配~~ 暂无适配计划     |
+| Container                        | 后续适配           | 后续适配           | 后续适配     | 后续适配           | ~~后续适配~~ 暂无适配计划     |
 | Android&Mac                      | 暂无适配计划       | 暂无适配计划       | 暂无适配计划 | 暂无适配计划       | 暂无适配计划 |
 | Mac                              | 暂无适配计划       | 暂无适配计划       | 暂无适配计划 | 暂无适配计划       | 暂无适配计划 |
 
