@@ -215,8 +215,8 @@ Ikuai虚拟机是在之前项目的镜像上修改的，里面可能设置了自
 | HHBT_VM_IKUAI.ZIP        | ikuai OS,用于VMWare的虚拟机文件 | 80E0B9840AAC597B234141D48492912E |
 | HHBT_OPENWRT.ZIP         | dump文件                        | FFA75B3B1DCB63E272456399ED336C79 |
 
-下载链接见Download link.txt 
-
+~~下载链接见Download link.txt~~ 
+2024/9/2:下载链接暂时下线，后续根据情况更新。
 
 
 ## 声明
