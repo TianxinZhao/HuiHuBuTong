@@ -325,8 +325,8 @@ Mentohust([HustLion/mentohust: 接续HustMoon开发的Mentohust，继续更新 (
 ## 12. 相关项目
 
 以下是未修改内容，之后有空再更新
-
-
+https://github.com/ELT17604/FuckHuiHuTong是
+todo: authdesc + project desc
 
 ## 13. 声明
 
