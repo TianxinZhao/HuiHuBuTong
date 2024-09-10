@@ -10,8 +10,21 @@
 
 ## 1. UPDATE 信息更新
 
-**2024/9/6:** 物业通知本日12-13:00因施工原因临时断网，疑似实际进行检测策略更新，更新后用于监测的CA证书指纹为
-`todo:证书数据明日更新`
+**2024/9/6:** 物业通知本日12-13:00因施工原因临时断网，疑似实际进行检测策略更新，更新后用于监测的证书指纹如下所示，之前应该也是锐捷的
+```
+CN(Common Name): ruijie
+0(Organization): Ruijie
+OU(Organizational Unit): SEC
+L(Locality): Fuzhou
+C(Country): CN
+ST(State or Province): Fujian
+Sha2_Fpr: F6 24 41 E7 A3 06 E7 A9 28 A0 FB 5E 52 87 71 DE E5 A3 B8 78 84 3D 8E 65 0A 79 12 F2 FA 44 A1 BE
+Sha1_Fpr: 67 13 61 FF D2 B3 72 3B 0E 5D BD DC 46 46 B2 46CF EB CD 5B
+NotBefore: 2018/1/19
+NotAfter: 2045/6/6
+```
+
+
 
 
 **2024/9/5:** 一站式:物业与相关营业厅从未将文星网络"升级"一事告知学校，学校对此不知情，**鼓励进行12315举报**。此为官方非正式的回复
