@@ -24,6 +24,12 @@
 
 **2024/9/2:** 文星已经全量上线密码登录，如登陆时仍只能扫码，请重启光猫。
 
+## 广告 :point_down: :point_down: :point_down:
+
+本人Surf项目正参与学院评选，希望大家能够帮忙投票支持，谢谢!
+
+> 支持方式: 点击链接https://core.xjtlu.edu.cn/mod/questionnaire/view.php?id=8245, 选择编号**2024-0320**的项目，点击确认即可，约15秒即可完成，thanks
+>![POSTER_FINAL_0828_RGB2CMYK_ONLINE_PUBLISH_VERSION](https://github.com/user-attachments/assets/beb0c600-6dd9-414f-8a07-650ae8a2ca6d)
 
 
 ## 2. FAQ 常见问题
