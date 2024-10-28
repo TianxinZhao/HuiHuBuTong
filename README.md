@@ -197,16 +197,23 @@ NotAfter: 2045/6/6
 
 Mentohust([HustLion/mentohust: 接续HustMoon开发的Mentohust，继续更新 (github.com)](https://github.com/HustLion/mentohust))是专门用于锐捷系统的自动登录工具，但文星宿舍区对认证算法进行了一定的修改。后续计划在此基础上进行修改开发，移植到不同的平台。
 
-
+更新：部分宿舍区域禁用账号密码登录，只允许使用微信扫码 Oauth。请使用下一个方案。
 
 - #### 自动扫码登录
 
 
-作为备份方案，若频繁更新认证算法则考虑使用自动扫码来登录。
+Dustella 的 [Huihutong-Portal-Login](https://github.com/Dustella/Huihutong-portal-login) 实现了无人值守的，针对微信扫码 OAuth 的自动登录。这个版本需要自己抓包获得 OpenID，之后每次登录不再需要扫码。
+
+<!---
+your comment goes here
+and here
+
+/** 作为备份方案，若频繁更新认证算法则考虑使用自动扫码来登录。
 
 当需要上网的设备获取到上级设备发来的登录页面时，使用局域网将内容数据转发至内网的手机即可。手机后台使用推送服务将解码后的二维码(或直接发送链接)发送至你的微信。能够实现(已经配置过的)设备(在后续连接时)你的微信会自动收到认证用的二维码，然后长按手动扫码。安卓端使用的方案是Termux+ServerChan([Server酱·Turbo版 | 一个请求通过API将消息推送到个人微信、企业微信、手机客户端和钉钉群、飞书群 (ftqq.com)](https://sct.ftqq.com/))
+**/
 
-
+-->
 
 ## 7. 设备数量解锁
 
